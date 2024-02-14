@@ -4,7 +4,7 @@ This little program takes in a chess position where white has a mate-in-one on t
 
 In the current Implementation the program assumes that neither side has en passant and neither side can castle. I enjoyed working on the problem and I have plans to implement en passant and castling in the future.
 
-Example position:
+<pre><code>Example position:
 ........
 .....p..
 ...p....
@@ -15,4 +15,4 @@ p..NR..r
 R..Bn...
 
 Example output:
-e5e8
+e5e8</code></pre>
